@@ -4,6 +4,10 @@ just like the name
 <hr>
 
 【项目】
+#### [完整的移动商城APP](https://github.com/fxamar/FlyWebSite)
+#### [美食中心](https://github.com/radensaleh/FoodHub-App)
+#### [商城购物](https://github.com/Mansurisodev/online_shopping)
+#### [日常费用和财务管理](https://github.com/MuriithiEric/task_management)
 
 
 【组件】
